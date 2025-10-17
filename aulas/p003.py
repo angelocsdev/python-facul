@@ -13,7 +13,7 @@ print(frase.capitalize()) # deixa apenas a primeira letra da frase maiuscula
 print(frase.title()) # todos os inicios de frase ficam maiusculos
 print(frase.strip()) # tira os espaços sobrando do inicio e do final
 print(frase.rstrip()) # remoce somente os últimos espaços
-print(frase.lstrip()) # remoce somente os primeiros espaços
+print(frase.lstrip()) # remove somente os primeiros espaços
 print(frase.split()) # separa a string pelos espaços -> ['Curso', 'em', 'Vídeo', 'Python']
 print('-'.join(frase)) # preenche os espaços com o caractere entre ''
 
